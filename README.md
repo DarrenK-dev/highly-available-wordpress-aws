@@ -1,1 +1,2 @@
-# highly-available-wordpress-aws
+# Highly Available Wordpress On AWS - Using Terraform
+

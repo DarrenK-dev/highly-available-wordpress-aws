@@ -1,0 +1,10 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.log
+*.retry
+
+# MacOS files
+.DS_Store
